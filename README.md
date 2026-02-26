@@ -1,0 +1,2 @@
+# RTM-Interlocking-Script
+RTM/ATSAssistMod/WebCTC/SignalControllerModを組み合わせ作る連動装置のJavaScriptコードです。
